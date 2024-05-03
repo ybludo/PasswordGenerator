@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Secure Password Generator</title>
+Secure Password Generator
 </head>
 <body>
 
